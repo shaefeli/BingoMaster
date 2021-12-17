@@ -1,2 +1,5 @@
 # BingoMaster
-Master a bingo game organization and simulate bingo games
+
+## Setup 
+->Python 3.6 installed
+->No aprticular libraries needed, code is written 
